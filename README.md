@@ -1,7 +1,7 @@
 # Consuming ASP web API with Angular 5
 This project is developed in angular 5 , in order to consume an asp.net web api built using C# , .Net 4.6 , and Mysql database  
 so forst in order to get this project to run , first visit the ASP.net web api application provided in my github from this link  
-(ASP web API Project)[https://github.com/AmilkarDev/ASP.Net-WEB-API-example] , create the databse in mysql as instructed , fix   
+(ASP web API Project) [https://github.com/AmilkarDev/ASP.Net-WEB-API-example] , create the databse in mysql as instructed , fix   
 the config file and launch the asp web api , then run the angular app and it will show the data as expected  
 
 
